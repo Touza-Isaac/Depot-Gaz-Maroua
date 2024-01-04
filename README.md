@@ -26,7 +26,7 @@ Depot Gaz Maroua vise à simplifier le processus de commande, de suivi et de ges
 Pour commencer à utiliser ou contribuer au projet Depot Gaz Maroua, veuillez suivre les étapes ci-dessous :
 
 1. **Cloner le dépôt** :
-   git clone [https://github.com/Touza-Isaac/Depot-Gaz-Maroua.git]
+   git clone [https://github.com/Touza-Isaac/Depot-Gaz-Maroua.git](https://github.com/Touza-Isaac/Depot-Gaz-Maroua.git)
 
 - Ouvrir le projet dans Android Studio :
 Assurez-vous d'avoir la dernière version d'Android Studio pour éviter tout problème de compatibilité.
@@ -50,6 +50,6 @@ Nous accueillons les contributions de tous! Si vous souhaitez contribuer, veuill
 Ce projet est sous licence XYZ. Veuillez consulter le fichier LICENSE pour plus d'informations.
 
 ## Contact
-VotreNom - @touzaisaac - isaac_touza@outlook.fr
+isaac_touza@outlook.fr
 Lien du projet : [https://github.com/Touza-Isaac/Depot-Gaz-Maroua.git](https://github.com/Touza-Isaac/Depot-Gaz-Maroua.git)
 ```
