@@ -1,7 +1,5 @@
 # Depot-Gaz-Maroua
 
-# Depot Gaz Maroua
-
 Bienvenue sur le dépôt GitHub du projet Depot Gaz Maroua, une application mobile innovante conçue pour faciliter la gestion et le dépôt de gaz à Maroua. Développée avec Kotlin et Jetpack Compose, cette application offre une interface utilisateur fluide et une expérience utilisateur optimale.
 
 ## À propos de l'application
@@ -28,7 +26,7 @@ Depot Gaz Maroua vise à simplifier le processus de commande, de suivi et de ges
 Pour commencer à utiliser ou contribuer au projet Depot Gaz Maroua, veuillez suivre les étapes ci-dessous :
 
 1. **Cloner le dépôt** :
-   git clone https://github.com/votreUsername/DepotGazMaroua.git
+   git clone [https://github.com/Touza-Isaac/Depot-Gaz-Maroua.git]
 
 - Ouvrir le projet dans Android Studio :
 Assurez-vous d'avoir la dernière version d'Android Studio pour éviter tout problème de compatibilité.
@@ -52,6 +50,6 @@ Nous accueillons les contributions de tous! Si vous souhaitez contribuer, veuill
 Ce projet est sous licence XYZ. Veuillez consulter le fichier LICENSE pour plus d'informations.
 
 ## Contact
-VotreNom - @VotreTwitter - email@example.com
-Lien du projet : [https://github.com/votreUsername/DepotGazMaroua](https://github.com/votreUsername/DepotGazMaroua)
+VotreNom - @touzaisaac - isaac_touza@outlook.fr
+Lien du projet : [https://github.com/Touza-Isaac/Depot-Gaz-Maroua.git](https://github.com/Touza-Isaac/Depot-Gaz-Maroua.git)
 ```
